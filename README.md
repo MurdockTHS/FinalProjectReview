@@ -4,7 +4,7 @@ This is my review for my final project
 
 
 ## Project Experience
-The Project SDLC can be seen here [OddJobsApp](https://github.com/MurdockTHS/OddJobs)
+The main respository is at [OddJobsApp](https://github.com/MurdockTHS/OddJobs)
 
 ## Code and Architecture
 This program is in C#,Javascript, and SQL
